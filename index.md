@@ -1,6 +1,8 @@
 markdown
 ---
-layout: home
+layout: page
+title: "Index"
+permalink: /index/
 ---
 
 # Benvenuto

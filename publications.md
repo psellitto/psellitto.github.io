@@ -16,3 +16,6 @@ Le mie attività si concentrano principalmente sullo studio della fisica e chimi
 
 ### 2025
 * **Sellitto, P.**, et al. (2025). *Satellite observations of volcanic plumes*.
+
+### 2024
+* ** Cacca

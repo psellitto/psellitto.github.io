@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Didattica
-permalink: /didattica/
+title: Teaching
+permalink: /teaching/
 ---
 
 In questa sezione sono raccolte le informazioni relative ai corsi di cui sono titolare o co-titolare presso l'**Université Paris Est Créteil**.

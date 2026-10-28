@@ -1,8 +1,8 @@
 markdown
 ---
 layout: page
-title: Ricerca e Pubblicazioni
-permalink: /pubblicazioni/
+title: Publications
+permalink: /publications/
 ---
 
 ## Tematiche di Ricerca

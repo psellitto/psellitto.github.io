@@ -29,17 +29,37 @@ permalink: /publications/
 * C. Kloss, A. Bossolasco, L. Thomason, B. Legras, G. Berthet, F. Jégou, P. Sellitto, Reconsidering the existence of a trend in the Asian tropopause aerosol layer (ATAL) from 1979 to 2017. Journal of Geophysical Research: Atmospheres, 129, e2023JD039784. https://doi.org/10.1029/2023JD039784, 2024
 * A. Podglajen, B. Legras, G. Lapeyre, R. Plougonven, V. Zeitlin, V., Brémaud, P. Sellitto. Dynamics of diabatically forced anticyclonic plumes in the stratosphere. Quarterly Journal of the Royal Meteorological Society, 1–28, 2024
 * V. N. Santhosh, B. L. Madhavan, M. Venkat Ratnam, D. N. Naik, P. Sellitto, Assessing biases in atmospheric parameters for radiative effects estimation in tropical regions, Journal of Quantitative Spectroscopy and Radiative Transfer, 314, 2024
-<img width="468" height="647" alt="image" src="https://github.com/user-attachments/assets/b1574122-3e72-4552-9e95-09a5ce894ef8" />
+
+### 2023
+* Castorina, G., Semprebello, A., Gattuso, A., Salerno, G., Sellitto, P., Italiano, F. and Rizza, U., Modelling Paroxysmal and Mild-Strombolian Eruptive Plumes at Stromboli and Mt. Etna on 28 August 2019. Remote Sensing 2023, 15, 5727. https://doi.org/10.3390/rs15245727, 2023.
+* C. Di Biagio, J. F. Doussin, M. Cazaunau, E. Pangui, J. Cuesta, P. Sellitto, M. Rodenas, P. Formenti, Infrared optical signature detects the source–dependency and atmospheric transport modification of dust mineralogy, Scientific Reports, 13, 13252, 2023.
+* P. Sellitto, R. Belhadji, J. Cuesta, A. Podglajen, B. Legras: Radiative impacts of the Australian bushfires 2019–2020 – Part 2: Large-scale and in-vortex radiative heating, Atmos. Chem. Phys., 23, 15523–15535, https://doi.org/10.5194/acp-23-15523-2023, 2023.
+* C. Duchamp, F. Wrana, B. Legras, P. Sellitto, R. Belhadji and C. von Savigny. Observation of the aerosol plume from the 2022 Hunga Tonga—Hunga Ha'apai eruption with SAGE III/ISS. Geophysical Research Letters, 50, e2023GL105076. https://doi.org/10.1029/2023GL105076, 2023
+*	P. Sellitto, G. Salerno, S. Corradini, I. Xueref-Remy, A. Riandet, C. Bellon, S. Khaykin, G. Ancellet, S. Lolli, E. J Welton, A. Boselli, A. Sannino, J. Cuesta, H. Guermazi, M. Eremenko, L. Merucci, D. Stelitano, L. Guerrieri, B. Legras, Volcanic Emissions, Plume Dispersion, and Downwind Radiative Impacts Following Mount Etna Series of Eruptions of February 21–26, 2021, Journal of Geophysical Research – Atmospheres, 128, e2021JD035974, https://doi.org/10.1029/2021JD035974, 2023.
+* B. L. Madhavan, R. Kudo, M.V. Ratnam, C. Kloss, G. Berthet, P. Sellitto, Stratospheric Aerosol Characteristics from the 2017–2019 Volcanic Eruptions Using the SAGE III/ISS Observations. Remote Sensing 15, 29, https://doi.org/10.3390/rs15010029, 2023.
+* C. Kloss, P. Sellitto, C. Rudiger, S. Turquety, Editorial: Observations and modelling of recent extreme wildfire events and their impact on the environment and climate, Frontiers in Environmental Science, 10, 10.3389/fenvs.2022.1123727, 2023.      
+
+### 2022
+* P. Sellitto, A. Podglajen, R. Belhadji, M. Boichu, E. Carboni, J. Cuesta, C. Duchamp, C. Kloss, R. Siddans, N. Bègue, L. Blarel, F. Jegou, S. Khaykin, J. -B. Renard, B. Legras The unexpected radiative impact of the Hunga Tonga eruption of 15th January 2022, Nature Communications Earth and Environment, 3, 288, https://doi.org/10.1038/s43247-022-00618-z, 2022
+* B. Legras, C. Duchamp, P. Sellitto, A. Podglajen, E. Carboni, R. Siddans, J.-U. Grooß, S. Khaykin, F. Ploeger, The evolution and dynamics of the Hunga Tonga–Hunga Ha'apai sulfate aerosol plume in the stratosphere, Atmospheric Chemistry and Physics, 22, 14957-14970, https://doi.org/10.5194/acp-22-14957-2022, 2022.
+*	S. Khaykin, A. Podglajen, F. Ploeger, …, P. Sellitto et al. Global perturbation of stratospheric water and aerosol burden by Hunga eruption, Nature Communications Earth and Environment, 3, 316, https://doi.org/10.1038/s43247-022-00652-x, 2022.
+*	C. Kloss, P. Sellitto, J.-B. Renard, A. Baron, N. Bègue, B. Legras, et al., Aerosol characterization of the stratospheric plume from the volcanic eruption at Hunga Tonga 15 January 2022, Geophysical Research Letters, 49, https://doi.org/10.1029/2022GL099394, 2022. 
+*	G. Dufour, M. Eremenko, G. Siour, P. Sellitto, J. Cuesta, A. Perrin, M. Beekman, 24 h Evolution of an Exceptional HONO Plume Emitted by the Record-Breaking 2019/2020 Australian Wildfire Tracked from Space. Atmosphere, 13, 9, 1485. https://doi.org/10.3390/atmos13091485, 2022.
+*	P. Sellitto, R. Belhadji, C. Kloss, and B. Legras, Radiative impacts of the Australian bushfires 2019–2020 – Part 1: Large-scale radiative forcing, Atmos. Chem. Phys., 22, 9299–9311, https://doi.org/10.5194/acp-22-9299-2022, 2022.
+*	F. Lemmouchi, J. Cuesta, M. Eremenko, C. Derognat, G. Siour, G. Dufour, P. Sellitto, S. Turquety, D. Tran, X. Liu, P. Zoogman, R. Lutz, D. Loyola, Three-Dimensional Distribution of Biomass Burning Aerosols from Australian Wildfires Observed by TROPOMI Satellite Observations. Remote Sensing, 14, 2582. https://doi.org/10.3390/rs14112582, 2022
+*	M. Lachatre, S. Mailler, L. Menut, A. Cholakian, P. Sellitto, G. Siour, H. Guermazi, G. Salerno, S. Giammanco, Modelling SO2 conversion into sulfates in the mid-troposphere with a 3D chemistry transport model: the case of Mount Etna's eruption on 12 April 2012, Atmospheric Chemistry and Physics, 22, 13861–13879, https://doi.org/10.5194/acp-22-13861-2022, 2022. 
+*	A. Sannino, S. Amoruso, R. Damiano, S. Scollo, P. Sellitto, A. Boselli, Optical and microphysical characterization of atmospheric aerosol in the Central Mediterranean during simultaneous volcanic ash and desert dust transport events, Atmospheric Research, 271, 2022.
+
+### 2021 
+*	P. Sellitto, G. Salerno, J.-F. Doussin, S. Triquet, F. Dulac, K. Desboeufs, Photometric Observations of Aerosol Optical Properties and Emission Flux Rates of Stromboli Volcano Plume during the PEACETIME Campaign. Remote Sensing, 13(19):4016. https://doi.org/10.3390/rs13194016, 2021
+*	H. Guermazi, P. Sellitto, J. Cuesta, M. Eremenko, M. Lachatre, S. Mailler, E. Carboni, G. Salerno, T. Caltabiano, L. Menut, M.M. Serbaji, F. Rekhiss,and B. Legras, Quantitative Retrieval of Volcanic Sulphate Aerosols from IASI Observations, Remote Sens. 2021, 13, 1808. https://doi.org/10.3390/rs13091808, 2021
+*	A. Bossolasco, F. Jegou, P. Sellitto, G. Berthet, C. Kloss, and B. Legras, Global modeling studies of composition and decadal trends of the Asian Tropopause Aerosol Layer, Atmos. Chem. Phys., 21, 2745–2764, https://doi.org/10.5194/acp-21-2745-2021, 2021.
+*	C. Kloss, G. Berthet, P. Sellitto, F. Ploeger, G. Taha, M. Tidiga, M. Eremenko, A. Bossolasco, F. Jégou, J.-B. Renard, and Legras, Stratospheric aerosol layer perturbation caused by the 2019 Raikoke and Ulawun eruptions and their radiative forcing, Atmospheric Chemistry and Physics, 21, 535–560, https://doi.org/10.5194/acp-21-535-2021, 2021.
+*	C. Kloss, P. Sellitto, M. von Hobe, G. Berthet, D. Smale, G. Krysztofiak, C. Xue, C. Qiu, F. Jégou, I. Ouerghemmi, B. Legras: Australian Fires 2019–2020: Tropospheric and Stratospheric Pollution Throughout the Whole Fire Season, Frontiers in Environmental Science, 9, doi: 10.3389/fenvs.2021.652024, 2021.
 
 
-### 2026
-* **Sellitto, P.**, et al. (2026). *Recent advances in atmospheric aerosol remote sensing*. Journal of Atmospheric Sciences, DOI: [10.1002/example](https://doi.org).
 
-### 2025
-* **Sellitto, P.**, et al. (2025). *Satellite observations of volcanic plumes*.
 
-### 2024
-* ** Cacca
 Sellitto, P., Kosary, M., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., & Sinnhuber, B.M. (2026). The enhanced capabilities of mid-infrared limb emission sounding to observe stratospheric aerosol injection geoengineering. Atmospheric Measurement Techniques, 19(19), 6379–6393.
 
 Kosary, M., Sellitto, P., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., & Sinnhuber, B.M. (2026). Characterising the long-term effects of stratospheric aerosol injection geoengineering on the stratospheric ozone layer with mid-infrared limb emission sounding instruments. Journal is required!.

@@ -8,6 +8,7 @@ permalink: /publications/
 Le mie attività si concentrano principalmente sullo studio della fisica e chimica dell'atmosfera, con particolare attenzione a:
 * Impatto degli aerosol atmosferici sul bilancio radiativo e sul clima.
 * Telerilevamento satellitare e monitoraggio ambientale.
+* Quello che vuoi
 
 ## Pubblicazioni Recenti
 

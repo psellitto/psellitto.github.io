@@ -3,7 +3,7 @@ email: "pasquale.sellitto@lisa.ipsl.fr"
 description: "Associate Professor at Université Paris Est Créteil & Researcher at LISA"
 theme: minima
 
-# Questo comando forza il tema a mostrare esattamente queste pagine nel menu in alto:
+# Questo comando b forza il tema a mostrare esattamente queste pagine nel menu in alto:
 header_pages:
   - index.md
   - publications.md

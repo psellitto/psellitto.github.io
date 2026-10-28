@@ -59,6 +59,33 @@ permalink: /publications/
 *	C. Kloss, G. Berthet, P. Sellitto, F. Ploeger, G. Taha, M. Tidiga, M. Eremenko, A. Bossolasco, F. Jégou, J.-B. Renard, and Legras, Stratospheric aerosol layer perturbation caused by the 2019 Raikoke and Ulawun eruptions and their radiative forcing, Atmospheric Chemistry and Physics, 21, 535–560, https://doi.org/10.5194/acp-21-535-2021, 2021.
 *	C. Kloss, P. Sellitto, M. von Hobe, G. Berthet, D. Smale, G. Krysztofiak, C. Xue, C. Qiu, F. Jégou, I. Ouerghemmi, B. Legras: Australian Fires 2019–2020: Tropospheric and Stratospheric Pollution Throughout the Whole Fire Season, Frontiers in Environmental Science, 9, doi: 10.3389/fenvs.2021.652024, 2021.
 
+### 2020
+* P. Sellitto, S. Bucci, and B. Legras, Comparison of ISS–CATS and CALIPSO–CALIOP Characterization of High Clouds in the Tropics. Remote Sensing, 12(23):3946. https://doi.org/10.3390/rs12233946, 2020
+*	P. Sellitto, G. Salerno, A. La Spina, T. Caltabiano, S. Scollo, A. Boselli, G. Leto, R. Zanmar Sanchez, S. Crumeyrolle, B. Hanoune, P. Briole, Small-scale volcanic aerosols variability, processes and direct radiative impact at Mount Etna during the EPL-RADIO campaigns, Nature Scientific Reports 10, 15224. https://doi.org/10.1038/s41598-020-71635-1, 2020
+*	S. Khaykin, B. Legras, S. Bucci, P. Sellitto, L. Isaksen, F. Tencé, S. Bekki, A. Bourassa, L. Rieger, D. Zawada, J. Jumelet and S. Godin-Beekmann, The 2019/20 Australian wildfires generated a persistent smoke-charged vortex rising up to 35 km altitude. Nature Communications Earth and Environment 1, 22, https://doi.org/10.1038/s43247-020-00022-5, 2020.
+*	M. Lachatre, S. Mailler, L. Menut, S. Turquety, P. Sellitto, H. Guermazi, G. Salerno, T. Caltabiano, E. Carboni, New strategies for vertical transport in chemistry-transport models: application to the case of the Mount Etna eruption on March 18, 2012 with CHIMERE v2017r4, Geoscientific Model Development, 13, 5707–5723, https://doi.org/10.5194/gmd-13-5707-2020, 2020.
+*	S. Bucci, B. Legras, P. Sellitto, F. D'Amato, S. Viciani, A. Montori, A. Chiarugi, F. Ravegnani, A. Ulanovsky, F. Cairo, F. Stroh. Deep convective influence on the UTLS composition in the Asian Monsoon Anticyclone region: 2017 StratoClim campaign results, Atmospheric Chemistry and Physics, 20, 12193–12210, https://doi.org/10.5194/acp-20-12193-2020, 2020.
+*	A. Gaudel, O. R. Cooper, K.-L. Chang, I. Bourgeois, J. R. Ziemke, S. A. Strode, L. D. Oman, P. Sellitto, P. Nedelec, R. Blot, V. Thouret, Tropospheric ozone is still increasing across the Northern Hemisphere, Science Advances, 6, 34: 10.1126/sciadv.aba82722020, 2020.
+*	C. Kloss, P. Sellitto, B. Legras, J.-P. Vernier, F. Jegou, M. Venkat Ratnam, S. Kumar, B. Lakshmi Madhavan, G. Berthet, Impact of the 2018 Ambae eruption on the global stratospheric aerosol layer and climate, Journal of Geophysical Research - Atmospheres, 125, e2020JD032410. https://doi.org/10.1029/2020JD032410, 2020
+
+### 2019
+*	P. Sellitto, H. Guermazi, E. Carboni, R. Siddans, M. Burton, Unified quantitative observation of coexisting volcanic sulfur dioxide and sulfate aerosols using ground-based Fourier transform infrared spectroscopy, Atmospheric Measurement Techniques, 12, 5381–5389, https://doi.org/10.5194/amt-12-5381-2019, 2019. 
+*	M. de Michele, D. Raucoules, S. Corradini, L. Merucci, G. Salerno, P. Sellitto, E. Carboni, Volcanic Cloud Top Height Estimation Using the Plume Elevation Model Procedure Applied to Orthorectified Landsat 8 Data. Test Case: 26 October 2013 Mt. Etna Eruption, MDPI Remote Sensing, 11, 785; doi:10.3390/rs11070785, 2019.
+*	C. Kloss, G. Berthet, P. Sellitto, F. Ploeger, S. Bucci, S. Khaykin, F. Jégou, G. Taha, L. W. Thomason, B. Barret, E. Le Flochmoen, M. von Hobe, A. Bossolasco, N. Bègue, B. Legras, Transport of the 2017 Canadian wildfire plume to the tropics and global stratosphere via the Asian monsoon circulation Atmospheric Chemistry and Physics, 19, 13547–13567, https://doi.org/10.5194/acp-19-13547-2019, 2019.
+*	M. Eremenko, L. Sgheri, M. Ridolfi, J. Cuesta, L. Costantino, P. Sellitto, G. Dufour, Self-adapting regularization applied to retrieval of tropospheric ozone from thermal infrared nadir satellite measurements, Journal of Quantitative Spectroscopy and Radiative Transfer, 238, https://doi.org/10.1016/j.jqsrt.2019.106577, 2019.
+
+### 2018
+*	A. McGonigle, P. Sellitto, G. Salerno, Editorial: Volcanic Plumes: Impacts on the Atmosphere and Insights into Volcanic Processes, MDPI Geosciences, 8(5), 158; doi:10.3390/geosciences8050158, 2018. 
+*	P. Sellitto, L. Spampinato, G. Salerno, A. La Spina, Aerosol Optical Properties of Pacaya Volcano Plume Measured with a Portable Sun-Photometer, MDPI Geosciences, 8(2), 36; doi:10.3390/geosciences8020036, 2018. 
+*	L. Terray, P.-J. Gauthier, G. Salerno, T. Caltabiano, A. La Spina, P. Sellitto, P. Briole, A New Degassing Model to Infer Magma Dynamics from Radioactive Disequilibria in Volcanic Plumes, MDPI Geosciences, 8(1), 27; doi:10.3390/geosciences8010027, 2018.
+
+### 2017 -
+*	P. Sellitto, G. Salerno, A. La Spina, T. Caltabiano, L. Terray, P.-J. Gauthier, P. Briole, A novel methodology to determine volcanic aerosols optical properties in the UV and NIR and Ångström parameters using sun-photometry. Journal of Geophysical Research: Atmospheres, 122, 9803-9815, doi:10.1002/2017JD026723, 2017.
+*	H. Guermazi, P. Sellitto, M. M. Serbaji, B. Legras, F. Rekhiss, Assessment of the combined sensitivity of nadir TIR satellite observations to volcanic SO2 and sulphate aerosols after a moderate stratospheric eruption, MDPI Geosciences, 7, 84; doi:10.3390/geosciences7030084, 2017.
+*	G. Licciardi, P. Sellitto, A. Piscini, J. Chanussot, Nonlinear Spectral Unmixing for the Characterisation of Volcanic Surface Deposit and Airborne Plumes from Remote Sensing Imagery, MDPI Geosciences, 7(3), 46, 2017.
+*	P. Sellitto, G. Sèze, B. Legras.  Secondary sulphate aerosols and cirrus clouds detection with SEVIRI during Nabro volcano eruption, International Journal of Remote Sensing, 38(20), 5657-5672, 2017.
+*	P. Sellitto, C. Zanetel, A. di Sarra, G. Salerno, A. Tapparo, D. Meloni, G. Pace, T. Caltabiano, P. Briole, B. Legras. The impact of Mount Etna sulfur emissions on the atmospheric composition and aerosol properties in the central Mediterranean: A statistical analysis over the period 2000-2013 based on observations and Lagrangian modelling, Atmospheric Environment, 148, 77-88, 2017.
+*	P. Sellitto, G. Salerno, P. Briole. The EtnaPlumeLab (EPL) research cluster: advance the understanding of Mt. Etna plume, from source characterisation to downwind impact, Annals of Geophysics, 60, A1, doi:10.4401/ag-7106, 2017.
 
 
 

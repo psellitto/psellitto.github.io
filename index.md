@@ -1,9 +1,10 @@
-<img src="foto.jpeg" alt="Pasquale Sellitto" style="width:200px; border-radius:10px; float:right; margin-left:20px;">
 ---
 layout: home
 title: "Home"
 permalink: /
 ---
+
+<img src="foto.jpeg" alt="Pasquale Sellitto" style="width:200px; border-radius:10px; float:right; margin-left:20px;">
 
 # Benvenuto
 

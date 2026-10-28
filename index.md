@@ -1,6 +1,6 @@
 <img src="foto.jpeg" alt="Pasquale Sellitto" style="width:200px; border-radius:10px; float:right; margin-left:20px;">
 
-# Benvenuto
+# Welcome
 
 I'm **Pasquale Sellitto**, Associate Professor & Assessor (Associate Vice-Rector) for Education at Université Paris Est Créteil and Researcher at Laboratoire Interuniversitaire des Systèmes Atmosphériques.
 
@@ -22,5 +22,5 @@ See my publication list on my [ORCID Profile (H-index 25)](https://orcid.org/000
 - Assessor of the UPEC university, with responsibility in the field of Education and Formation
 - Responsible of the research group "Spectroscopy and Remote Sensing" at LISA laboratory
 
-## Contatti
+## Contact
 * **Email:** pasquale.sellitto@lisa.ipsl.fr

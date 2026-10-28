@@ -5,7 +5,6 @@ theme: minima
 
 # Questo comando forza il tema a mostrare esattamente queste pagine nel menu in alto:
 header_pages:
-  - test.md
   - index.md
   - publications.md
   - teaching.md

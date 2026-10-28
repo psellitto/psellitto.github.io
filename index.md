@@ -6,7 +6,7 @@ permalink: /index/
 
 # Benvenuto
 
-I'm **Pasquale Sellitto**, Associate Professor & Assessor (Associate Vice-Rector) for Education at Université Paris Est Créteil + Researcher at Laboratoire Interuniversitaire des Systèmes Atmosphériques
+I'm **Pasquale Sellitto**, Associate Professor & Assessor (Associate Vice-Rector) for Education at Université Paris Est Créteil + Researcher at Laboratoire Interuniversitaire des Systèmes Atmosphériques...
 
 ## Research topics
 My research topics are in the broad area of the disciplines “Atmospheric Chemistry and Physics” and “Atmospheric and Climate Sciences”. The most important are listed in the following:

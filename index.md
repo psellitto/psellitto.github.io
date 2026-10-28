@@ -17,7 +17,7 @@ My research topics are in the broad area of the disciplines “Atmospheric Chemi
 - Air Quality, Tropospheric / Lower-Tropospheric Ozone, Tropospheric Aerosols, Secondary Aerosols.
 - Ground-based Remote Sensing Instrumentation, Measurement Campaigns.
 - Machine Learning, Artificial Intelligence and Soft Computing Schemes for the Analysis of Geo-data.
-See my publication list here--> https://orcid.org/0000-0001-7440-2350 <--H-index 22
+See my publication list here--> https://orcid.org/0000-0001-7440-2350 <--H-index 25
 
 Also:
 - Member of the CNRS's Specialised Commission in Oceans-Atmosphere (CS-OA)

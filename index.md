@@ -1,15 +1,16 @@
+markdown
 ---
-layout: page
-title: "index"
-permalink: /index/
+layout: home
+title: "Home"
+permalink: /
 ---
 
 # Benvenuto
 
-I'm **Pasquale Sellitto**, Associate Professor & Assessor (Associate Vice-Rector) for Education at Université Paris Est Créteil + Researcher at Laboratoire Interuniversitaire des Systèmes Atmosphériques...
+I'm **Pasquale Sellitto**, Associate Professor & Assessor (Associate Vice-Rector) for Education at Université Paris Est Créteil and Researcher at Laboratoire Interuniversitaire des Systèmes Atmosphériques.
 
 ## Research topics
-My research topics are in the broad area of the disciplines “Atmospheric Chemistry and Physics” and “Atmospheric and Climate Sciences”. The most important are listed in the following:
+My research topics are in the broad area of the disciplines "Atmospheric Chemistry and Physics" and "Atmospheric and Climate Sciences". The most important are listed in the following:
 - Atmospheric Radiative Transfer, Radiative Budget and Climate Forcing, Aerosol-Radiation Interactions
 - Impact of Volcanic and Extreme Fires Emissions on the Atmospheric Composition and Radiation Budget
 - Upper Tropospheric and Stratospheric Aerosols, Sulphur Cycle in the Troposphere and the Stratosphere, Cirrus Clouds
@@ -17,14 +18,14 @@ My research topics are in the broad area of the disciplines “Atmospheric Chemi
 - Air Quality, Tropospheric / Lower-Tropospheric Ozone, Tropospheric Aerosols, Secondary Aerosols.
 - Ground-based Remote Sensing Instrumentation, Measurement Campaigns.
 - Machine Learning, Artificial Intelligence and Soft Computing Schemes for the Analysis of Geo-data.
-See my publication list here--> https://orcid.org/0000-0001-7440-2350 <--H-index 25
 
-Also:
+See my publication list on my [ORCID Profile (H-index 25)](https://orcid.org/0000-0001-7440-2350).
+
+## Roles & Affiliations
 - Member of the CNRS's Specialised Commission in Oceans-Atmosphere (CS-OA)
 - Member of the French National University Commission (CNU)
 - Assessor of the UPEC university, with responsibility in the field of Education and Formation
-- Responsible of the research group “Spectroscopy and Remote Sensing” at LISA laboratory
-...and more...
+- Responsible of the research group "Spectroscopy and Remote Sensing" at LISA laboratory
 
 ## Contatti
 * **Email:** pasquale.sellitto@lisa.ipsl.fr

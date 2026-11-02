@@ -8,6 +8,7 @@ header_pages:
   - index.md
   - publications.md
   - teaching.md
+  - linkedin.md
 
 plugins:
   - jekyll-feed

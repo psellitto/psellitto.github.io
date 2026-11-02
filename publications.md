@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<span style="color: #ff4500;"> ### New: Accepted!
+### <span style="color: #ff4500;"> New: Accepted!
 * Vieille, L., Duchamp, C., Berthet, G., Legras, B., Jégou, F., Podglajen, A., Sellitto, P.,   Khaykin, S., Soares, O., Franco, B., Clarisse, L., Renard, J.-B., Briaud, E., Chevrier, S., Lecas, T., Bourassa, A., Zawada, D., New Formation of a Smoke Charged Vortex from the 2025 Canadian Wildfires. ESS Open Archive [preprint], DOI: https://doi.org/10.22541/essoar.15005895/v1, under review for Geophysical Research Letters, 2026.
 * Semprebello, A., Salerno, G., Gattuso, A., Sellitto, P., Guerrieri, L., Corradini, S., Barnaba, F., Bracci, A., Torre, A., Caccamo, M. T., Longo, M., Magazù, S., Dispersion modelling of the 2021 eruptive plumes at Mt. Etna by coupling WRF-Chem model with ground-based and satellite remote sensing observations, under review for Journal of Geophysical Research – Atmospheres, 2026
 

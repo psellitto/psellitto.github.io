@@ -4,10 +4,12 @@ title: "Publications"
 permalink: /publications/
 ---
 
+<span style="color: #ff4500;"> ### New: Accepted!
+* Vieille, L., Duchamp, C., Berthet, G., Legras, B., Jégou, F., Podglajen, A., Sellitto, P.,   Khaykin, S., Soares, O., Franco, B., Clarisse, L., Renard, J.-B., Briaud, E., Chevrier, S., Lecas, T., Bourassa, A., Zawada, D., New Formation of a Smoke Charged Vortex from the 2025 Canadian Wildfires. ESS Open Archive [preprint], DOI: https://doi.org/10.22541/essoar.15005895/v1, under review for Geophysical Research Letters, 2026.
+* Semprebello, A., Salerno, G., Gattuso, A., Sellitto, P., Guerrieri, L., Corradini, S., Barnaba, F., Bracci, A., Torre, A., Caccamo, M. T., Longo, M., Magazù, S., Dispersion modelling of the 2021 eruptive plumes at Mt. Etna by coupling WRF-Chem model with ground-based and satellite remote sensing observations, under review for Journal of Geophysical Research – Atmospheres, 2026
+
 ### Under review
 * Kosary, M., Sellitto, P., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., and Sinnhuber, B.-M., Characterising the long-term effects of stratospheric aerosol injection geoengineering on the stratospheric ozone layer with mid-infrared limb emission sounding instruments, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-4654, under review for Atmos. Meas. Tech., 2026.
-* Vieille, L., Duchamp, C., Berthet, G., Legras, B., Jégou, F., Podglajen, A., Sellitto, P.,   Khaykin, S., Soares, O., Franco, B., Clarisse, L., Renard, J.-B., Briaud, E., Chevrier, S., Lecas, T., Bourassa, A., Zawada, D., New Formation of a Smoke Charged Vortex from the 2025 Canadian Wildfires. ESS Open Archive [preprint], DOI: https://doi.org/10.22541/essoar.15005895/v1, under review for Geophysical Research Letters, 2026.
-* Semprebello, A., Salerno, G., Gattuso, A., Sellitto, P., Guerrieri, L., Corradini, S., Barnaba, F., Bracci, A., Torre, A., Caccamo, M. T., Longo, M., Magazù, S., Dispersion modelling of the 2021 eruptive plumes at Mt. Etna by coupling WRF-Chem model with ground-based and satellite remote sensing observations, under review for Journal of Geophysical Research – Atmospheres (minor revisions), 2026
 
 ### 2026
 * Sellitto, P., Kosary, M., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., and Sinnhuber, B.-M., The enhanced capabilities of mid-infrared limb emission sounding to observe stratospheric aerosol injection geoengineering, Atmos. Meas. Tech., 19, 6379–6393, https://doi.org/10.5194/amt-19-6379-2026, 2026.
@@ -90,7 +92,7 @@ permalink: /publications/
 ### 2016 -
 * P. Sellitto, A. di Sarra, S. Corradini, M. Boichu, H. Herbin, P. Dubuisson, G. Seze, D. Meloni, F. Monteleone, L. Merucci, J. Rusalem, G. Salerno, P. Briole, B. Legras. Synergistic use of Lagrangian dispersion and radiative transfer modelling with satellite and surface remote sensing measurements for the investigation of volcanic plumes: the Mount Etna eruption of 25–27 October 2013, Atmospheric Chemistry and Physics, 16, 6841-6861, 2016.
 *	P. Sellitto and B. Legras, Sensitivity of thermal infrared nadir instruments to the chemical and microphysical properties of UTLS secondary sulfate aerosols, Atmospheric Measurement Techniques, 9, 115-132, 2016.
-*	6.	P. Sellitto, Artificial neural networks for spectral sensitivity analysis to optimize inversion algorithms for satellite-based Earth observation: sulphate aerosols observations with high resolution thermal infrared sounders, in Sensitivity Analysis In Earth Observation Modelling, G. Petropoulos and P. K. Srivastava, Eds., Springer, 2016.
+*	P. Sellitto, Artificial neural networks for spectral sensitivity analysis to optimize inversion algorithms for satellite-based Earth observation: sulphate aerosols observations with high resolution thermal infrared sounders, in Sensitivity Analysis In Earth Observation Modelling, G. Petropoulos and P. K. Srivastava, Eds., Springer, 2016.
 
 ### 2015 -
 *	P. Sellitto and P. Briole, On the radiative forcing of volcanic plumes: modelling the impact of Mount Etna in the Mediterranean, Annals of Geophysics, 58, A3, doi:10.4401/ag-6879, 2015.

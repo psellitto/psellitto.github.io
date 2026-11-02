@@ -24,6 +24,3 @@ See my publication list on my [ORCID Profile (H-index 25)](https://orcid.org/000
 
 ## Contact
 * **Email:** pasquale.sellitto@lisa.ipsl.fr
-
-## See news from LinkedIn 
-<script type="text/javascript" src="https://www.juicer.io/embed/pasquale-sellitto-4910a33/embed-code.js" async defer></script>

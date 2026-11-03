@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Positions"
+title: "OpenPositions"
 permalink: /offers/
 ---
 

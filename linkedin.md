@@ -5,4 +5,4 @@ permalink: /linkedin/
 ---
 
 ## See news from my LinkedIn feed
-<script type="text/javascript" src="https://www.juicer.io/embed/pasquale-sellitto-4910a33/embed-code.js" async defer></script>
+[My LinkedIn profile](https://www.linkedin.com/in/pasquale-sellitto-4910a33/)

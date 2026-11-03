@@ -13,6 +13,4 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-minima:
-  social_links:
-    linkedin: pasquale-sellitto-4910a33
+linkedin_username: pasquale-sellitto-4910a33

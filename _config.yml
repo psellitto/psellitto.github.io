@@ -12,3 +12,7 @@ header_pages:
 
 plugins:
   - jekyll-feed
+
+minima:
+  social_links:
+    linkedin: pasquale-sellitto-4910a33

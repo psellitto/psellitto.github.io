@@ -5,6 +5,7 @@ theme: minima
 
 # Questo comando b forza il tema a mostrare esattamente queste pagine nel menu in alto:
 header_pages:
+  - news.md
   - publications.md
   - teaching.md
   - linkedin.md

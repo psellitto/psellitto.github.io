@@ -23,4 +23,5 @@ See my publication list on my [ORCID Profile (H-index 25)](https://orcid.org/000
 - Responsible of the research group "Spectroscopy and Remote Sensing" at LISA laboratory
 
 ## Contact
-* **Email:** <pasquale.sellitto@lisa.ipsl.fr>
+* **Email:** <pasquale.sellitto@lisa.ipsl.fr> (for research matters)
+* **Email:** <pasquale.sellitto@u-pec.fr> (for teaching matters)

@@ -18,7 +18,7 @@ In this section, information about the courses that I lead in the academic year 
   * **Structure**: 5 courses x 3h each: 15h overall
   * **Evaluation**: one oral presentation on a selected subject (50%) + one written exam (50%)
   * **Material**:
-    - [S1]({{ '/assets/Aerosols_Climat_S1.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
+    - [Introduction au système climatique]({{ '/assets/Aerosols_Climat_S1.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
     - [S2]
     - [S3]
     - [S4]

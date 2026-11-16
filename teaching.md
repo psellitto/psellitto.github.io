@@ -18,7 +18,11 @@ In this section, information about the courses that I lead in the academic year 
   * **Structure**: 5 courses x 3h each: 15h overall
   * **Evaluation**: one oral presentation on a selected subject (50%) + one written exam (50%)
   * **Material**:
-    - [Open File in New Tab]({{ '/assets/Aerosols_Climat_S1.pdf.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
+    - [S1]({{ '/assets/Aerosols_Climat_S1.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
+    - [S2]
+    - [S3]
+    - [S4]
+    - [S5]
 
 ### Laurea Triennale / Licence
 * **Introduzione alle Scienze Ambientali**

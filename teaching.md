@@ -24,6 +24,6 @@ In this section, information about the courses that I lead in the academic year 
     - [S4]
     - [S5]
 
-### Laurea Triennale / Licence
-* **Introduzione alle Scienze Ambientali**
-  * *Descrizione:* Fondamenti di chimica ambientale e dinamiche del sistema Terra.
+### Licence
+* **Bases mathématiques et physiques adaptées à la Biologie et la Chimie**
+* **Methodologie Expérimentale**

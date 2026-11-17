@@ -8,6 +8,8 @@ permalink: /linkedin/
 [My LinkedIn profile](https://www.linkedin.com/in/pasquale-sellitto-4910a33/)
 
 ## Some of my latest LinkedIn posts 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7528510683211055104?collapsed=1" height="594" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7528032495028813824?collapsed=1" height="594" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7516853207793553409?collapsed=1" height="628" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

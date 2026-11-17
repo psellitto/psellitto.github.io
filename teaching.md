@@ -19,7 +19,7 @@ In this section, information about the courses that I lead in the academic year 
   * **Evaluation**: one oral presentation on a selected subject (50%) + one written exam (50%)
   * **Material**:
     - [Introduction au système climatique]({{ '/assets/Aerosols_Climat_S1.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
-    - [S2]
+    - [Tendances climatiques et gouvernance]({{ '/assets/Aerosols_Climat_S2.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}
     - [S3]
     - [S4]
     - [S5]

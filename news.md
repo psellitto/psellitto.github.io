@@ -31,11 +31,13 @@ permalink: /news/
 </style>
 
 <h3 class="evidenza"> Nov. 2026: Synthesis and SWOT analysis for the Workshop "La stratosphère et ses interfaces: dynamique, transport et couplages associés" are now available (in French)</h3>
-On 6-8 October 2025, the national workshop "La stratosphère et ses interfaces: dynamique, transport et couplages associés" took place in Paris (more info on the [workshop website](https://atelierstrato.sciencesconf.org/).
+On 6-8 October 2025, the national workshop "La stratosphère et ses interfaces: dynamique, transport et couplages associés" took place in Paris. More info on the [workshop website](https://atelierstrato.sciencesconf.org/).
 
 A [general synthesis](https://atelierstrato.sciencesconf.org/data/pages/AtelierStrato_Synthe_se_ge_ne_rale.pdf) and a [SWOT analysis](https://atelierstrato.sciencesconf.org/data/pages/AtelierStrato_SWOT.pdf), describing the general landscape of the French research in the field of the Earth's stratosphere, are now available. 
 
 The workshop was partially funded by CNRS INSU and the LEFE programme, and was organised as a step towards the CNES INSU CSOA national perspective exercise.
+
+<br>
 
 ## News Archive
 ## Nov. 2026: Two new accepted papers

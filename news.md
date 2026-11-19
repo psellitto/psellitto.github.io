@@ -20,8 +20,12 @@ permalink: /news/
 }
 </style>
 
-<h3 class="lampeggiante"> Nov. 2026: Two new accepted papers </h3>
-* Vieille et al., New Formation of a Smoke Charged Vortex from the 2025 Canadian Wildfires. Accepted for for publication on Geophysical Research Letters <br> --> Preprint here: <https://doi.org/10.22541/essoar.15005895/v1>
-* Semprebello et al., Dispersion modelling of the 2021 eruptive plumes at Mt. Etna by coupling WRF-Chem model with ground-based and satellite remote sensing observations, Accepted for for publication on Journal of Geophysical Research – Atmospheres
+<h3 class="lampeggiante"> Nov. 2026: Synthesis and SWOT analysis for the Workshop "La stratosphère et ses interfaces: dynamique, transport et couplages associés" are now available (in French)</h3>
+On 6-8 October 2025, the national workshop "La stratosphère et ses interfaces: dynamique, transport et couplages associés" took place in Paris (more info here: https://atelierstrato.sciencesconf.org/)
+A general synthesis (https://atelierstrato.sciencesconf.org/data/pages/AtelierStrato_Synthe_se_ge_ne_rale.pdf) and a SWOT analysis 
+(https://atelierstrato.sciencesconf.org/data/pages/AtelierStrato_SWOT.pdf), describing the general landscape of the French research in the field of the Earth's stratosphere, are now available.
 
 ### Nov. 2026: My website is online
+###  Nov. 2026: Two new accepted papers
+* Vieille et al., New Formation of a Smoke Charged Vortex from the 2025 Canadian Wildfires. Accepted for for publication on Geophysical Research Letters <br> --> Preprint here: <https://doi.org/10.22541/essoar.15005895/v1>
+* Semprebello et al., Dispersion modelling of the 2021 eruptive plumes at Mt. Etna by coupling WRF-Chem model with ground-based and satellite remote sensing observations, Accepted for for publication on Journal of Geophysical Research – Atmospheres

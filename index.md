@@ -25,3 +25,19 @@ See my publication list on my [ORCID Profile (H-index 25)](https://orcid.org/000
 ## Contact
 * **Email:** <pasquale.sellitto@lisa.ipsl.fr> (for research matters)
 * **Email:** <pasquale.sellitto@u-pec.fr> (for teaching matters)
+
+<script src="https://giscus.app/client.js"
+        data-repo="psellitto/psellitto.github.io"
+        data-repo-id="R_kgDOVapAjQ"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -19,3 +19,6 @@ plugins:
 
 linkedin_username: pasquale-sellitto-4910a33
 instagram_username: linosellitto
+
+disqus:
+  shortname: qualsiasi_cosa 

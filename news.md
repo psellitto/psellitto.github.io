@@ -38,7 +38,7 @@ A [general synthesis](https://atelierstrato.sciencesconf.org/data/pages/AtelierS
 The workshop was partially funded by CNRS INSU and the LEFE programme, and was organised as a step towards the CNES INSU CSOA national perspective exercise.
 
 <h3 class="evidenza"> Nov. 2026: New accepted paper </h3>
-
+* Kosary, M., Sellitto, P., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., and Sinnhuber, B.-M., Characterising the long-term effects of stratospheric aerosol injection geoengineering on the stratospheric ozone layer with mid-infrared limb emission sounding instruments, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-4654, under review for Atmos. Meas. Tech., 2026.
 
 <br>
 

@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### <span style="color: #ff4500;"> New: Accepted!
 * Vieille, L., Duchamp, C., Berthet, G., Legras, B., Jégou, F., Podglajen, A., Sellitto, P.,   Khaykin, S., Soares, O., Franco, B., Clarisse, L., Renard, J.-B., Briaud, E., Chevrier, S., Lecas, T., Bourassa, A., Zawada, D., New Formation of a Smoke Charged Vortex from the 2025 Canadian Wildfires. ESS Open Archive [preprint], DOI: <https://doi.org/10.22541/essoar.15005895/v1>, Accepted for for publication on Geophysical Research Letters, 2026.
+* Kosary, M., Sellitto, P., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., and Sinnhuber, B.-M., Characterising the long-term effects of stratospheric aerosol injection geoengineering on the stratospheric ozone layer with mid-infrared limb emission sounding instruments, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-4654, under review for Atmos. Meas. Tech., 2026.
 
 ### Under review
-* Kosary, M., Sellitto, P., Höpfner, M., Funke, B., Hoffmann, A., Ungermann, J., Errera, Q., Tilmes, S., and Sinnhuber, B.-M., Characterising the long-term effects of stratospheric aerosol injection geoengineering on the stratospheric ozone layer with mid-infrared limb emission sounding instruments, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-4654, under review for Atmos. Meas. Tech., 2026.
 * Alalam, P., Herbin, H., Petitprez, D., Gosselin, S., Bizet, V., Formenti, P., Sellitto, P., Di Biagio, C., Laboratory study of mineral dust optical properties extending in the far-infrared spectral range, Submitted to Aerosol Science and Technology, arXiv [preprint], https://arxiv.org/abs/2610.41907. 
 
 ### 2026

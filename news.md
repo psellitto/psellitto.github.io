@@ -37,6 +37,9 @@ A [general synthesis](https://atelierstrato.sciencesconf.org/data/pages/AtelierS
 
 The workshop was partially funded by CNRS INSU and the LEFE programme, and was organised as a step towards the CNES INSU CSOA national perspective exercise.
 
+<h3 class="evidenza"> Nov. 2026: New accepted paper </h3>
+
+
 <br>
 
 ### News Archive
